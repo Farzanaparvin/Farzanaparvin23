@@ -8,7 +8,6 @@ I am Graduated in Masters in Business Administration want to be successful SAP c
 
 * 🌍  I'm based in Helsinki
 * ✉️  You can contact me at [farzanaparvin009@gmail.com](mailto:farzanaparvin009@gmail.com)
-* 🚀  I'm currently working on [Recipe App](http://recipe.com)
 * 🧠  I'm learning ERP system and SAP
 
 <a href="https://www.github.com/Farzanaparvin23" target="_blank" rel="noreferrer"><img
